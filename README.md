@@ -164,7 +164,7 @@ Após a execução do pipeline são gerados:
 
 ---
 
-![Postgres](images/postgres.png)
+![Postgres](images/postgresql.png)
 
 ## Dataset
 
